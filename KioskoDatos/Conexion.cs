@@ -26,7 +26,7 @@ namespace KioskoDatos
 
         public string AsignarCadenaConexion()
         {
-            return "Server=PCNVILLAMIZAR\\SQLEXPRESS;Database=Kiosko;User Id=sa;Password=1234; Trusted_Connection=True; MultipleActiveResultSets=true;";
+            return "Server=DESKTOP-MMLHIU2;Database=Kiosko;User Id=parroAdmin;Password=Parro9512$$; Trusted_Connection=True; MultipleActiveResultSets=true;";
         }
     }
 }

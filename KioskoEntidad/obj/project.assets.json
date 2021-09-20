@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\NVillamizar\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NVillamizar\\source\\repos\\Kiosko\\KioskoEntidad\\KioskoEntidad.csproj",
+      "projectUniqueName": "D:\\Ciel\\Practica\\Kioscos\\KioskoCiel\\KioskoEntidad\\KioskoEntidad.csproj",
       "projectName": "KioskoEntidad",
-      "projectPath": "C:\\Users\\NVillamizar\\source\\repos\\Kiosko\\KioskoEntidad\\KioskoEntidad.csproj",
-      "packagesPath": "C:\\Users\\NVillamizar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NVillamizar\\source\\repos\\Kiosko\\KioskoEntidad\\obj\\",
+      "projectPath": "D:\\Ciel\\Practica\\Kioscos\\KioskoCiel\\KioskoEntidad\\KioskoEntidad.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\Ciel\\Practica\\Kioscos\\KioskoCiel\\KioskoEntidad\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\NVillamizar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

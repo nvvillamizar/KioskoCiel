@@ -1,9 +1,11 @@
-﻿using KioskoEntidad;
+﻿using Ciel.Prueba.NetCore.Filters;
+using KioskoEntidad;
 using KioskoNegocio;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Kiosko.Controllers
 {
+    [ServiceFilter(typeof(Seguridad))]
     public class KioskoController : Controller
     {
         private KioskoNeg KioskoNegocio = new KioskoNeg();

@@ -170,5 +170,31 @@ namespace KioskoDatos
             return blResultado;
         }
 
+        public string Autenticar(string correo, string password)
+        {
+            objConexion = new Conexion();
+            try
+            {
+                using SqlConnection con = new SqlConnection();
+                con.ConnectionString = objConexion.AsignarCadenaConexion();
+                con.Open();
+
+                var query = new SqlCommand("SELECT IdUsuario, Correo, Clave FROM Usuarios WHERE Correo = @Correo AND Clave = @Clave", con);
+                query.Parameters.AddWithValue("@Correo", correo);
+                query.Parameters.AddWithValue("@Clave", password);
+
+                using var read = query.ExecuteReader();
+                read.Read();
+                if (read.HasRows) return read["IdUsuario"].ToString();
+
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return null;
+        }
+
     }
 }

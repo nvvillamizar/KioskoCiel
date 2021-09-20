@@ -10,3 +10,15 @@ C:\Users\NVillamizar\source\repos\Kiosko\KioskoEntidad\obj\Debug\net5.0\KioskoEn
 C:\Users\NVillamizar\source\repos\Kiosko\KioskoEntidad\obj\Debug\net5.0\ref\KioskoEntidad.dll
 C:\Users\NVillamizar\source\repos\Kiosko\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.pdb
 C:\Users\NVillamizar\source\repos\Kiosko\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.csproj.AssemblyReference.cache
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\bin\Debug\net5.0\KioskoEntidad.deps.json
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\bin\Debug\net5.0\KioskoEntidad.dll
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\bin\Debug\net5.0\ref\KioskoEntidad.dll
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\bin\Debug\net5.0\KioskoEntidad.pdb
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.csproj.AssemblyReference.cache
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.AssemblyInfoInputs.cache
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.AssemblyInfo.cs
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.csproj.CoreCompileInputs.cache
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.dll
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\ref\KioskoEntidad.dll
+D:\Ciel\Practica\Kioscos\KioskoCiel\KioskoEntidad\obj\Debug\net5.0\KioskoEntidad.pdb
